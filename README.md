@@ -1,0 +1,1 @@
+# Cloud-Detection-in-INSAT-satellite-images
